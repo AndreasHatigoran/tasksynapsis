@@ -1,7 +1,7 @@
 # tasksynapsis by Andreas Hatigoran
 
 -Membuat Koneksi Database
-![img 1](Screenshoot/ConnecttoDb.png)
+![img 1](Screenshoot/ConnecttoDB.png)
 
 -Schema dari database
 ![img 2](Screenshoot/Schema.png)
