@@ -1,6 +1,7 @@
 # tasksynapsis by Andreas Hatigoran
 
 -Membuat Koneksi Database
+
 ![img 1](Screenshoot/ConnecttoDB.png)
 
 -Schema dari database
@@ -32,3 +33,6 @@
 -Updating Data
 ![img 12](Screenshoot/Update.png)
 ![img 13](Screenshoot/UpdateSuccess.png)
+
+-Data yang terekam di MongoDB
+![img 14](Screenshoot/Database.png)
