@@ -1,34 +1,34 @@
 # tasksynapsis by Andreas Hatigoran
 
 -Membuat Koneksi Database
-![img 1](screenshoot/ConnecttoDb.png)
+![img 1](Screenshoot/ConnecttoDb.png)
 
 -Schema dari database
-![img 2](screenshoot/Schema.png)
+![img 2](Screenshoot/Schema.png)
 
 -Method PUT, POST, DELETE, GET
-![img 3](screenshoot/GETPOST.png)
-![img 4](screenshoot/PUTDELETE.png)
+![img 3](Screenshoot/GETPOST.png)
+![img 4](Screenshoot/PUTDELETE.png)
 
 -Method untuk menambahkan data
-![img 5](screenshoot/handleSubmitCreate.png)
+![img 5](Screenshoot/handleSubmitCreate.png)
 
 -Method untuk Update data
-![img 6](screenshoot/handleUpdateClient.png)
+![img 6](Screenshoot/handleUpdateClient.png)
 
 -Method untuk Delete data 
-![img 7](screenshoot/handleDeleteClient.png)
+![img 7](Screenshoot/handleDeleteClient.png)
 
 -Running Application
-![img 8](screenshoot/yarn%20dev.png)
+![img 8](Screenshoot/yarn%20dev.png)
 
 -Create Data
-![img 9](screenshoot/Create.png)
-![img 10](screenshoot/SuccessDaftar.png)
+![img 9](Screenshoot/Create.png)
+![img 10](Screenshoot/SuccessDaftar.png)
 
 -Delete Data
-![img 11](screenshoot/Delete.png)
+![img 11](Screenshoot/Delete.png)
 
 -Updating Data
-![img 12](screenshoot/Update.png)
-![img 13](screenshoot/UpdateSuccess.png)
+![img 12](Screenshoot/Update.png)
+![img 13](Screenshoot/UpdateSuccess.png)
